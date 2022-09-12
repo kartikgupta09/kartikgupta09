@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikgupta09
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java,Java Script.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me guptakartik850@gmail.com
 
