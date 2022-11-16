@@ -1,6 +1,7 @@
 - 👋 Hi, My Name is Kartik Gupta
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Java,Java Script,HTML,SQL.
+- ✨ Developing skills and learning data structure and algorithms.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me guptakartik850@gmail.com
 
