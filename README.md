@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikgupta09&label=Profile%20views&color=0e75b6&style=flat" alt="kartikgupta09" /> </p>
 
-- 🌱 I’m currently learning **Java , DSA , JS , ML**
+- 🌱 I’m currently learning **Java , DSA , JS , ML , OS , DBMS**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/kartikgupta_09](https://linktr.ee/kartikgupta_09)
 
